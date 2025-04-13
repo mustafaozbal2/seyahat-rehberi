@@ -1,0 +1,893 @@
+[
+  {
+    "sehir": "Adana",
+    "aciklama": "Adana, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 14°C",
+    "gezilecekYerler": "Camii ve külliyesi, Doğal Göl, Nehir kenarı yürüyüş yolu, Şehir Parkı, Bölge Kalesi",
+    "resimler": [
+      "adana1.jpg",
+      "adana2.jpg",
+      "adana3.jpg"
+    ]
+  },
+  {
+    "sehir": "Adıyaman",
+    "aciklama": "Adıyaman, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 28°C",
+    "gezilecekYerler": "Bölge Kalesi, Camii ve külliyesi, Nehir kenarı yürüyüş yolu, Yayla, Arkeoloji Müzesi",
+    "resimler": [
+      "adiyaman1.jpg",
+      "adiyaman2.jpg",
+      "adiyaman3.jpg"
+    ]
+  },
+  {
+    "sehir": "Afyonkarahisar",
+    "aciklama": "Afyonkarahisar, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 30°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Yayla, Etnografya Müzesi, Camii ve külliyesi, Şehir Parkı",
+    "resimler": [
+      "afyonkarahisar1.jpg",
+      "afyonkarahisar2.jpg",
+      "afyonkarahisar3.jpg"
+    ]
+  },
+  {
+    "sehir": "Ağrı",
+    "aciklama": "Ağrı, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 14°C",
+    "gezilecekYerler": "Doğal Göl, Bölge Kalesi, Etnografya Müzesi, Şehir Parkı, Tarihi Saat Kulesi",
+    "resimler": [
+      "agri1.jpg",
+      "agri2.jpg",
+      "agri3.jpg"
+    ]
+  },
+  {
+    "sehir": "Amasya",
+    "aciklama": "Amasya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 30°C",
+    "gezilecekYerler": "Şehir Parkı, Yayla, Etnografya Müzesi, Doğal Göl, Tarihi Saat Kulesi",
+    "resimler": [
+      "amasya1.jpg",
+      "amasya2.jpg",
+      "amasya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Ankara",
+    "aciklama": "Ankara, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 24°C",
+    "gezilecekYerler": "Camii ve külliyesi, Yayla, Nehir kenarı yürüyüş yolu, Şehir Parkı, Antik Kent",
+    "resimler": [
+      "ankara1.jpg",
+      "ankara2.jpg",
+      "ankara3.jpg"
+    ]
+  },
+  {
+    "sehir": "Antalya",
+    "aciklama": "Antalya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 18°C",
+    "gezilecekYerler": "Camii ve külliyesi, Etnografya Müzesi, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Bölge Kalesi",
+    "resimler": [
+      "antalya1.jpg",
+      "antalya2.jpg",
+      "antalya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Artvin",
+    "aciklama": "Artvin, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 24°C",
+    "gezilecekYerler": "Yayla, Doğal Göl, Şehir Parkı, Nehir kenarı yürüyüş yolu, Bölge Kalesi",
+    "resimler": [
+      "artvin1.jpg",
+      "artvin2.jpg",
+      "artvin3.jpg"
+    ]
+  },
+  {
+    "sehir": "Aydın",
+    "aciklama": "Aydın, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 27°C",
+    "gezilecekYerler": "Doğal Göl, Etnografya Müzesi, Şehir Parkı, Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu",
+    "resimler": [
+      "aydin1.jpg",
+      "aydin2.jpg",
+      "aydin3.jpg"
+    ]
+  },
+  {
+    "sehir": "Balıkesir",
+    "aciklama": "Balıkesir, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 13°C",
+    "gezilecekYerler": "Şehir Parkı, Tarihi Saat Kulesi, Camii ve külliyesi, Arkeoloji Müzesi, Bölge Kalesi",
+    "resimler": [
+      "balikesir1.jpg",
+      "balikesir2.jpg",
+      "balikesir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bilecik",
+    "aciklama": "Bilecik, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 20°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Şehir Parkı, Tarihi Saat Kulesi, Nehir kenarı yürüyüş yolu, Antik Kent",
+    "resimler": [
+      "bilecik1.jpg",
+      "bilecik2.jpg",
+      "bilecik3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bingöl",
+    "aciklama": "Bingöl, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 11°C",
+    "gezilecekYerler": "Doğal Göl, Bölge Kalesi, Nehir kenarı yürüyüş yolu, Şehir Parkı, Antik Kent",
+    "resimler": [
+      "bingol1.jpg",
+      "bingol2.jpg",
+      "bingol3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bitlis",
+    "aciklama": "Bitlis, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 16°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Arkeoloji Müzesi, Camii ve külliyesi, Şehir Parkı, Doğal Göl",
+    "resimler": [
+      "bitlis1.jpg",
+      "bitlis2.jpg",
+      "bitlis3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bolu",
+    "aciklama": "Bolu, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 27°C",
+    "gezilecekYerler": "Camii ve külliyesi, Doğal Göl, Yayla, Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu",
+    "resimler": [
+      "bolu1.jpg",
+      "bolu2.jpg",
+      "bolu3.jpg"
+    ]
+  },
+  {
+    "sehir": "Burdur",
+    "aciklama": "Burdur, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 22°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Yayla, Doğal Göl, Bölge Kalesi, Antik Kent",
+    "resimler": [
+      "burdur1.jpg",
+      "burdur2.jpg",
+      "burdur3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bursa",
+    "aciklama": "Bursa, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 19°C",
+    "gezilecekYerler": "Yayla, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Arkeoloji Müzesi, Şehir Parkı",
+    "resimler": [
+      "bursa1.jpg",
+      "bursa2.jpg",
+      "bursa3.jpg"
+    ]
+  },
+  {
+    "sehir": "Çanakkale",
+    "aciklama": "Çanakkale, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 13°C",
+    "gezilecekYerler": "Şehir Parkı, Nehir kenarı yürüyüş yolu, Etnografya Müzesi, Camii ve külliyesi, Antik Kent",
+    "resimler": [
+      "canakkale1.jpg",
+      "canakkale2.jpg",
+      "canakkale3.jpg"
+    ]
+  },
+  {
+    "sehir": "Çankırı",
+    "aciklama": "Çankırı, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 29°C",
+    "gezilecekYerler": "Camii ve külliyesi, Nehir kenarı yürüyüş yolu, Doğal Göl, Arkeoloji Müzesi, Antik Kent",
+    "resimler": [
+      "cankiri1.jpg",
+      "cankiri2.jpg",
+      "cankiri3.jpg"
+    ]
+  },
+  {
+    "sehir": "Çorum",
+    "aciklama": "Çorum, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 30°C",
+    "gezilecekYerler": "Bölge Kalesi, Şehir Parkı, Tarihi Saat Kulesi, Etnografya Müzesi, Doğal Göl",
+    "resimler": [
+      "corum1.jpg",
+      "corum2.jpg",
+      "corum3.jpg"
+    ]
+  },
+  {
+    "sehir": "Denizli",
+    "aciklama": "Denizli, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 17°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Bölge Kalesi, Şehir Parkı, Camii ve külliyesi, Yayla",
+    "resimler": [
+      "denizli1.jpg",
+      "denizli2.jpg",
+      "denizli3.jpg"
+    ]
+  },
+  {
+    "sehir": "Diyarbakır",
+    "aciklama": "Diyarbakır, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 24°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Antik Kent, Arkeoloji Müzesi, Yayla, Doğal Göl",
+    "resimler": [
+      "diyarbakir1.jpg",
+      "diyarbakir2.jpg",
+      "diyarbakir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Edirne",
+    "aciklama": "Edirne, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 19°C",
+    "gezilecekYerler": "Camii ve külliyesi, Bölge Kalesi, Tarihi Saat Kulesi, Yayla, Doğal Göl",
+    "resimler": [
+      "edirne1.jpg",
+      "edirne2.jpg",
+      "edirne3.jpg"
+    ]
+  },
+  {
+    "sehir": "Elazığ",
+    "aciklama": "Elazığ, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 28°C",
+    "gezilecekYerler": "Doğal Göl, Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu, Antik Kent, Yayla",
+    "resimler": [
+      "elazig1.jpg",
+      "elazig2.jpg",
+      "elazig3.jpg"
+    ]
+  },
+  {
+    "sehir": "Erzincan",
+    "aciklama": "Erzincan, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 21°C",
+    "gezilecekYerler": "Tarihi Saat Kulesi, Arkeoloji Müzesi, Şehir Parkı, Antik Kent, Yayla",
+    "resimler": [
+      "erzincan1.jpg",
+      "erzincan2.jpg",
+      "erzincan3.jpg"
+    ]
+  },
+  {
+    "sehir": "Erzurum",
+    "aciklama": "Erzurum, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 17°C",
+    "gezilecekYerler": "Bölge Kalesi, Şehir Parkı, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Yayla",
+    "resimler": [
+      "erzurum1.jpg",
+      "erzurum2.jpg",
+      "erzurum3.jpg"
+    ]
+  },
+  {
+    "sehir": "Eskişehir",
+    "aciklama": "Eskişehir, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 15°C",
+    "gezilecekYerler": "Bölge Kalesi, Camii ve külliyesi, Doğal Göl, Antik Kent, Arkeoloji Müzesi",
+    "resimler": [
+      "eskisehir1.jpg",
+      "eskisehir2.jpg",
+      "eskisehir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Gaziantep",
+    "aciklama": "Gaziantep, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 10°C",
+    "gezilecekYerler": "Antik Kent, Arkeoloji Müzesi, Şehir Parkı, Doğal Göl, Etnografya Müzesi",
+    "resimler": [
+      "gaziantep1.jpg",
+      "gaziantep2.jpg",
+      "gaziantep3.jpg"
+    ]
+  },
+  {
+    "sehir": "Giresun",
+    "aciklama": "Giresun, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 20°C",
+    "gezilecekYerler": "Tarihi Saat Kulesi, Antik Kent, Şehir Parkı, Arkeoloji Müzesi, Camii ve külliyesi",
+    "resimler": [
+      "giresun1.jpg",
+      "giresun2.jpg",
+      "giresun3.jpg"
+    ]
+  },
+  {
+    "sehir": "Gümüşhane",
+    "aciklama": "Gümüşhane, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 21°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Şehir Parkı, Arkeoloji Müzesi, Bölge Kalesi, Yayla",
+    "resimler": [
+      "gumushane1.jpg",
+      "gumushane2.jpg",
+      "gumushane3.jpg"
+    ]
+  },
+  {
+    "sehir": "Hakkari",
+    "aciklama": "Hakkari, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 11°C",
+    "gezilecekYerler": "Tarihi Saat Kulesi, Nehir kenarı yürüyüş yolu, Şehir Parkı, Antik Kent, Arkeoloji Müzesi",
+    "resimler": [
+      "hakkari1.jpg",
+      "hakkari2.jpg",
+      "hakkari3.jpg"
+    ]
+  },
+  {
+    "sehir": "Hatay",
+    "aciklama": "Hatay, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 20°C",
+    "gezilecekYerler": "Camii ve külliyesi, Arkeoloji Müzesi, Antik Kent, Yayla, Şehir Parkı",
+    "resimler": [
+      "hatay1.jpg",
+      "hatay2.jpg",
+      "hatay3.jpg"
+    ]
+  },
+  {
+    "sehir": "Isparta",
+    "aciklama": "Isparta, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 14°C",
+    "gezilecekYerler": "Camii ve külliyesi, Bölge Kalesi, Antik Kent, Arkeoloji Müzesi, Yayla",
+    "resimler": [
+      "isparta1.jpg",
+      "isparta2.jpg",
+      "isparta3.jpg"
+    ]
+  },
+  {
+    "sehir": "Mersin",
+    "aciklama": "Mersin, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 30°C",
+    "gezilecekYerler": "Camii ve külliyesi, Tarihi Saat Kulesi, Şehir Parkı, Etnografya Müzesi, Antik Kent",
+    "resimler": [
+      "mersin1.jpg",
+      "mersin2.jpg",
+      "mersin3.jpg"
+    ]
+  },
+  {
+    "sehir": "İstanbul",
+    "aciklama": "İstanbul, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 23°C",
+    "gezilecekYerler": "Bölge Kalesi, Antik Kent, Camii ve külliyesi, Yayla, Nehir kenarı yürüyüş yolu",
+    "resimler": [
+      "istanbul1.jpg",
+      "istanbul2.jpg",
+      "istanbul3.jpg"
+    ]
+  },
+  {
+    "sehir": "İzmir",
+    "aciklama": "İzmir, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 20°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Etnografya Müzesi, Bölge Kalesi, Yayla, Şehir Parkı",
+    "resimler": [
+      "izmir1.jpg",
+      "izmir2.jpg",
+      "izmir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kars",
+    "aciklama": "Kars, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 10°C",
+    "gezilecekYerler": "Antik Kent, Nehir kenarı yürüyüş yolu, Camii ve külliyesi, Yayla, Etnografya Müzesi",
+    "resimler": [
+      "kars1.jpg",
+      "kars2.jpg",
+      "kars3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kastamonu",
+    "aciklama": "Kastamonu, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 13°C",
+    "gezilecekYerler": "Antik Kent, Camii ve külliyesi, Şehir Parkı, Arkeoloji Müzesi, Bölge Kalesi",
+    "resimler": [
+      "kastamonu1.jpg",
+      "kastamonu2.jpg",
+      "kastamonu3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kayseri",
+    "aciklama": "Kayseri, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 23°C",
+    "gezilecekYerler": "Yayla, Tarihi Saat Kulesi, Etnografya Müzesi, Doğal Göl, Bölge Kalesi",
+    "resimler": [
+      "kayseri1.jpg",
+      "kayseri2.jpg",
+      "kayseri3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kırklareli",
+    "aciklama": "Kırklareli, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 27°C",
+    "gezilecekYerler": "Doğal Göl, Arkeoloji Müzesi, Yayla, Etnografya Müzesi, Şehir Parkı",
+    "resimler": [
+      "kirklareli1.jpg",
+      "kirklareli2.jpg",
+      "kirklareli3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kırşehir",
+    "aciklama": "Kırşehir, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 24°C",
+    "gezilecekYerler": "Yayla, Antik Kent, Etnografya Müzesi, Nehir kenarı yürüyüş yolu, Şehir Parkı",
+    "resimler": [
+      "kirsehir1.jpg",
+      "kirsehir2.jpg",
+      "kirsehir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kocaeli",
+    "aciklama": "Kocaeli, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 17°C",
+    "gezilecekYerler": "Antik Kent, Bölge Kalesi, Tarihi Saat Kulesi, Nehir kenarı yürüyüş yolu, Şehir Parkı",
+    "resimler": [
+      "kocaeli1.jpg",
+      "kocaeli2.jpg",
+      "kocaeli3.jpg"
+    ]
+  },
+  {
+    "sehir": "Konya",
+    "aciklama": "Konya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 21°C",
+    "gezilecekYerler": "Etnografya Müzesi, Yayla, Antik Kent, Arkeoloji Müzesi, Bölge Kalesi",
+    "resimler": [
+      "konya1.jpg",
+      "konya2.jpg",
+      "konya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kütahya",
+    "aciklama": "Kütahya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 11°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Yayla, Nehir kenarı yürüyüş yolu, Doğal Göl, Şehir Parkı",
+    "resimler": [
+      "kutahya1.jpg",
+      "kutahya2.jpg",
+      "kutahya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Malatya",
+    "aciklama": "Malatya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 29°C",
+    "gezilecekYerler": "Antik Kent, Tarihi Saat Kulesi, Şehir Parkı, Doğal Göl, Arkeoloji Müzesi",
+    "resimler": [
+      "malatya1.jpg",
+      "malatya2.jpg",
+      "malatya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Manisa",
+    "aciklama": "Manisa, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 10°C",
+    "gezilecekYerler": "Antik Kent, Arkeoloji Müzesi, Şehir Parkı, Yayla, Camii ve külliyesi",
+    "resimler": [
+      "manisa1.jpg",
+      "manisa2.jpg",
+      "manisa3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kahramanmaraş",
+    "aciklama": "Kahramanmaraş, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 16°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Etnografya Müzesi, Antik Kent, Doğal Göl, Yayla",
+    "resimler": [
+      "kahramanmaras1.jpg",
+      "kahramanmaras2.jpg",
+      "kahramanmaras3.jpg"
+    ]
+  },
+  {
+    "sehir": "Mardin",
+    "aciklama": "Mardin, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 30°C",
+    "gezilecekYerler": "Antik Kent, Tarihi Saat Kulesi, Bölge Kalesi, Arkeoloji Müzesi, Şehir Parkı",
+    "resimler": [
+      "mardin1.jpg",
+      "mardin2.jpg",
+      "mardin3.jpg"
+    ]
+  },
+  {
+    "sehir": "Muğla",
+    "aciklama": "Muğla, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 20°C",
+    "gezilecekYerler": "Yayla, Doğal Göl, Bölge Kalesi, Şehir Parkı, Tarihi Saat Kulesi",
+    "resimler": [
+      "mugla1.jpg",
+      "mugla2.jpg",
+      "mugla3.jpg"
+    ]
+  },
+  {
+    "sehir": "Muş",
+    "aciklama": "Muş, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 26°C",
+    "gezilecekYerler": "Etnografya Müzesi, Yayla, Antik Kent, Doğal Göl, Arkeoloji Müzesi",
+    "resimler": [
+      "mus1.jpg",
+      "mus2.jpg",
+      "mus3.jpg"
+    ]
+  },
+  {
+    "sehir": "Nevşehir",
+    "aciklama": "Nevşehir, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 28°C",
+    "gezilecekYerler": "Şehir Parkı, Yayla, Arkeoloji Müzesi, Bölge Kalesi, Camii ve külliyesi",
+    "resimler": [
+      "nevsehir1.jpg",
+      "nevsehir2.jpg",
+      "nevsehir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Niğde",
+    "aciklama": "Niğde, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 24°C",
+    "gezilecekYerler": "Şehir Parkı, Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu, Yayla, Camii ve külliyesi",
+    "resimler": [
+      "nigde1.jpg",
+      "nigde2.jpg",
+      "nigde3.jpg"
+    ]
+  },
+  {
+    "sehir": "Ordu",
+    "aciklama": "Ordu, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 13°C",
+    "gezilecekYerler": "Antik Kent, Tarihi Saat Kulesi, Etnografya Müzesi, Doğal Göl, Bölge Kalesi",
+    "resimler": [
+      "ordu1.jpg",
+      "ordu2.jpg",
+      "ordu3.jpg"
+    ]
+  },
+  {
+    "sehir": "Rize",
+    "aciklama": "Rize, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 25°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Şehir Parkı, Camii ve külliyesi, Tarihi Saat Kulesi, Yayla",
+    "resimler": [
+      "rize1.jpg",
+      "rize2.jpg",
+      "rize3.jpg"
+    ]
+  },
+  {
+    "sehir": "Sakarya",
+    "aciklama": "Sakarya, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 29°C",
+    "gezilecekYerler": "Etnografya Müzesi, Arkeoloji Müzesi, Camii ve külliyesi, Yayla, Şehir Parkı",
+    "resimler": [
+      "sakarya1.jpg",
+      "sakarya2.jpg",
+      "sakarya3.jpg"
+    ]
+  },
+  {
+    "sehir": "Samsun",
+    "aciklama": "Samsun, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 23°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Tarihi Saat Kulesi, Camii ve külliyesi, Doğal Göl, Şehir Parkı",
+    "resimler": [
+      "samsun1.jpg",
+      "samsun2.jpg",
+      "samsun3.jpg"
+    ]
+  },
+  {
+    "sehir": "Siirt",
+    "aciklama": "Siirt, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 25°C",
+    "gezilecekYerler": "Bölge Kalesi, Doğal Göl, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Yayla",
+    "resimler": [
+      "siirt1.jpg",
+      "siirt2.jpg",
+      "siirt3.jpg"
+    ]
+  },
+  {
+    "sehir": "Sinop",
+    "aciklama": "Sinop, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 12°C",
+    "gezilecekYerler": "Bölge Kalesi, Nehir kenarı yürüyüş yolu, Yayla, Camii ve külliyesi, Arkeoloji Müzesi",
+    "resimler": [
+      "sinop1.jpg",
+      "sinop2.jpg",
+      "sinop3.jpg"
+    ]
+  },
+  {
+    "sehir": "Sivas",
+    "aciklama": "Sivas, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 28°C",
+    "gezilecekYerler": "Şehir Parkı, Nehir kenarı yürüyüş yolu, Arkeoloji Müzesi, Doğal Göl, Antik Kent",
+    "resimler": [
+      "sivas1.jpg",
+      "sivas2.jpg",
+      "sivas3.jpg"
+    ]
+  },
+  {
+    "sehir": "Tekirdağ",
+    "aciklama": "Tekirdağ, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 30°C",
+    "gezilecekYerler": "Antik Kent, Camii ve külliyesi, Etnografya Müzesi, Tarihi Saat Kulesi, Nehir kenarı yürüyüş yolu",
+    "resimler": [
+      "tekirdag1.jpg",
+      "tekirdag2.jpg",
+      "tekirdag3.jpg"
+    ]
+  },
+  {
+    "sehir": "Tokat",
+    "aciklama": "Tokat, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Güneşli, 20°C",
+    "gezilecekYerler": "Etnografya Müzesi, Camii ve külliyesi, Arkeoloji Müzesi, Tarihi Saat Kulesi, Şehir Parkı",
+    "resimler": [
+      "tokat1.jpg",
+      "tokat2.jpg",
+      "tokat3.jpg"
+    ]
+  },
+  {
+    "sehir": "Trabzon",
+    "aciklama": "Trabzon, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 25°C",
+    "gezilecekYerler": "Şehir Parkı, Doğal Göl, Etnografya Müzesi, Arkeoloji Müzesi, Bölge Kalesi",
+    "resimler": [
+      "trabzon1.jpg",
+      "trabzon2.jpg",
+      "trabzon3.jpg"
+    ]
+  },
+  {
+    "sehir": "Tunceli",
+    "aciklama": "Tunceli, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 22°C",
+    "gezilecekYerler": "Doğal Göl, Yayla, Arkeoloji Müzesi, Etnografya Müzesi, Tarihi Saat Kulesi",
+    "resimler": [
+      "tunceli1.jpg",
+      "tunceli2.jpg",
+      "tunceli3.jpg"
+    ]
+  },
+  {
+    "sehir": "Şanlıurfa",
+    "aciklama": "Şanlıurfa, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 21°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Arkeoloji Müzesi, Etnografya Müzesi, Doğal Göl, Tarihi Saat Kulesi",
+    "resimler": [
+      "sanliurfa1.jpg",
+      "sanliurfa2.jpg",
+      "sanliurfa3.jpg"
+    ]
+  },
+  {
+    "sehir": "Uşak",
+    "aciklama": "Uşak, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 16°C",
+    "gezilecekYerler": "Yayla, Arkeoloji Müzesi, Antik Kent, Tarihi Saat Kulesi, Etnografya Müzesi",
+    "resimler": [
+      "usak1.jpg",
+      "usak2.jpg",
+      "usak3.jpg"
+    ]
+  },
+  {
+    "sehir": "Van",
+    "aciklama": "Van, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 20°C",
+    "gezilecekYerler": "Etnografya Müzesi, Doğal Göl, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Arkeoloji Müzesi",
+    "resimler": [
+      "van1.jpg",
+      "van2.jpg",
+      "van3.jpg"
+    ]
+  },
+  {
+    "sehir": "Yozgat",
+    "aciklama": "Yozgat, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 30°C",
+    "gezilecekYerler": "Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi, Yayla, Doğal Göl, Etnografya Müzesi",
+    "resimler": [
+      "yozgat1.jpg",
+      "yozgat2.jpg",
+      "yozgat3.jpg"
+    ]
+  },
+  {
+    "sehir": "Zonguldak",
+    "aciklama": "Zonguldak, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 10°C",
+    "gezilecekYerler": "Antik Kent, Tarihi Saat Kulesi, Şehir Parkı, Etnografya Müzesi, Bölge Kalesi",
+    "resimler": [
+      "zonguldak1.jpg",
+      "zonguldak2.jpg",
+      "zonguldak3.jpg"
+    ]
+  },
+  {
+    "sehir": "Aksaray",
+    "aciklama": "Aksaray, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 14°C",
+    "gezilecekYerler": "Tarihi Saat Kulesi, Doğal Göl, Camii ve külliyesi, Şehir Parkı, Bölge Kalesi",
+    "resimler": [
+      "aksaray1.jpg",
+      "aksaray2.jpg",
+      "aksaray3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bayburt",
+    "aciklama": "Bayburt, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 15°C",
+    "gezilecekYerler": "Şehir Parkı, Camii ve külliyesi, Etnografya Müzesi, Arkeoloji Müzesi, Tarihi Saat Kulesi",
+    "resimler": [
+      "bayburt1.jpg",
+      "bayburt2.jpg",
+      "bayburt3.jpg"
+    ]
+  },
+  {
+    "sehir": "Karaman",
+    "aciklama": "Karaman, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 23°C",
+    "gezilecekYerler": "Bölge Kalesi, Nehir kenarı yürüyüş yolu, Şehir Parkı, Yayla, Doğal Göl",
+    "resimler": [
+      "karaman1.jpg",
+      "karaman2.jpg",
+      "karaman3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kırıkkale",
+    "aciklama": "Kırıkkale, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 26°C",
+    "gezilecekYerler": "Yayla, Bölge Kalesi, Camii ve külliyesi, Nehir kenarı yürüyüş yolu, Tarihi Saat Kulesi",
+    "resimler": [
+      "kirikkale1.jpg",
+      "kirikkale2.jpg",
+      "kirikkale3.jpg"
+    ]
+  },
+  {
+    "sehir": "Batman",
+    "aciklama": "Batman, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 14°C",
+    "gezilecekYerler": "Bölge Kalesi, Antik Kent, Arkeoloji Müzesi, Şehir Parkı, Tarihi Saat Kulesi",
+    "resimler": [
+      "batman1.jpg",
+      "batman2.jpg",
+      "batman3.jpg"
+    ]
+  },
+  {
+    "sehir": "Şırnak",
+    "aciklama": "Şırnak, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Kapalı, 14°C",
+    "gezilecekYerler": "Şehir Parkı, Doğal Göl, Yayla, Nehir kenarı yürüyüş yolu, Arkeoloji Müzesi",
+    "resimler": [
+      "sirnak1.jpg",
+      "sirnak2.jpg",
+      "sirnak3.jpg"
+    ]
+  },
+  {
+    "sehir": "Bartın",
+    "aciklama": "Bartın, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 29°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu, Etnografya Müzesi, Yayla, Şehir Parkı",
+    "resimler": [
+      "bartin1.jpg",
+      "bartin2.jpg",
+      "bartin3.jpg"
+    ]
+  },
+  {
+    "sehir": "Ardahan",
+    "aciklama": "Ardahan, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Yağmurlu, 25°C",
+    "gezilecekYerler": "Yayla, Nehir kenarı yürüyüş yolu, Camii ve külliyesi, Doğal Göl, Arkeoloji Müzesi",
+    "resimler": [
+      "ardahan1.jpg",
+      "ardahan2.jpg",
+      "ardahan3.jpg"
+    ]
+  },
+  {
+    "sehir": "Iğdır",
+    "aciklama": "Iğdır, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 13°C",
+    "gezilecekYerler": "Arkeoloji Müzesi, Nehir kenarı yürüyüş yolu, Şehir Parkı, Etnografya Müzesi, Doğal Göl",
+    "resimler": [
+      "igdir1.jpg",
+      "igdir2.jpg",
+      "igdir3.jpg"
+    ]
+  },
+  {
+    "sehir": "Yalova",
+    "aciklama": "Yalova, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Açık, 14°C",
+    "gezilecekYerler": "Bölge Kalesi, Doğal Göl, Şehir Parkı, Etnografya Müzesi, Arkeoloji Müzesi",
+    "resimler": [
+      "yalova1.jpg",
+      "yalova2.jpg",
+      "yalova3.jpg"
+    ]
+  },
+  {
+    "sehir": "Karabük",
+    "aciklama": "Karabük, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Parçalı Bulutlu, 22°C",
+    "gezilecekYerler": "Etnografya Müzesi, Tarihi Saat Kulesi, Antik Kent, Camii ve külliyesi, Şehir Parkı",
+    "resimler": [
+      "karabuk1.jpg",
+      "karabuk2.jpg",
+      "karabuk3.jpg"
+    ]
+  },
+  {
+    "sehir": "Kilis",
+    "aciklama": "Kilis, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Karlı, 21°C",
+    "gezilecekYerler": "Tarihi Saat Kulesi, Şehir Parkı, Camii ve külliyesi, Bölge Kalesi, Doğal Göl",
+    "resimler": [
+      "kilis1.jpg",
+      "kilis2.jpg",
+      "kilis3.jpg"
+    ]
+  },
+  {
+    "sehir": "Osmaniye",
+    "aciklama": "Osmaniye, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 16°C",
+    "gezilecekYerler": "Doğal Göl, Arkeoloji Müzesi, Etnografya Müzesi, Camii ve külliyesi, Nehir kenarı yürüyüş yolu",
+    "resimler": [
+      "osmaniye1.jpg",
+      "osmaniye2.jpg",
+      "osmaniye3.jpg"
+    ]
+  },
+  {
+    "sehir": "Düzce",
+    "aciklama": "Düzce, Türkiye'nin önemli şehirlerinden biridir. Kültürel mirası, doğal güzellikleri ve tarihî yapılarıyla dikkat çeker.",
+    "hava": "Rüzgarlı, 26°C",
+    "gezilecekYerler": "Şehir Parkı, Camii ve külliyesi, Yayla, Etnografya Müzesi, Tarihi Saat Kulesi",
+    "resimler": [
+      "duzce1.jpg",
+      "duzce2.jpg",
+      "duzce3.jpg"
+    ]
+  }
+]
